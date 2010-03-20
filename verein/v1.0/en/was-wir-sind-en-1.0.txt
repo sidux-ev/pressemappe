@@ -1,0 +1,38 @@
+Who we are
+sidux e.V. is a non-profit charitable organization (comparable to a foundation) with the main goal to promote and distribute free software globally. In particular, we dedicate ourselves to the sidux distribution.
+Founded in 2007, we currently constitute of about 60 members. The foundation's internal communications is mostly done on the Internet using Internet Relay Chat (IRC), besides that we organize user meetings and workshops in Germany and abroad.
+The primary goal of the sidux e.V. is to support the developers of the distribution sidux™ by supplying the project with the necessary financial resources. Furthermore, the foundation handles any legal and organizational tasks. Funding is achieved by member fees, donations and revenue from a web-shop for sidux branded merchandise.
+Our high level of collaboration with projects, such as Debian, CAcert and FSFE, is designed to help strengthen the use, awareness and case of free software.
+The Public Relations work includes representing the project sidux™ through a regular presence at big Linux fairs in Germany, for example the annual LinuxTag in Berlin.
+XXXXXXXXXXXXXXXXXXXXXXX
+The Seminarix Project
+Seminarix is a project that arose from the cooperation with W.D. Zimmermann (Head of the Teachers College Neuss) and the sidux e.V. It is a sidux-based GNU / Linux distribution to promote Linux in teaching and learning for schools.
+The goal is to anchor free software in schools and education as an alternative to commercial software.
+Seminarix was released last in 10/2009 on DVD. The project's website is at http://www.seminarix.org/files/start.html
+XXXXXXXXXXXXXXXXXXXX
+The Kiosk Project
+The "kiosk project" was developed for a university hospital in order to set up a free Internet café for their patients. The aim was to build a Live-CD to enable safe and easy surfing on the internet and additional printing services.
+Since the café is operated without staff this had to be designed with a very reduced software-stack and with safety measures to make sure that private data from a user would not be found by an other users.
+The Kiosk project was commisioned and handed over to the hospital and has been working successfully now for 18 months.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Project "sidux Hotel" Berlin
+In December, 2007, the Hotel Azur in Berlin was converted to sidux. Both the guest and the back-office systems were successfully migrated from Windows to sidux.
+In addition, a wireless Internet network in the whole hotel was established. The system, since day one, has been running virtually maintenance free.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+sidux™ has a legal Trademark.
+In 2008 we applied to Trademark the name sidux™. The Trademark was granted in 2009 for Europe.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Cooperation with Balista, CAcert and FSFE
+In 2009 many contacts were made and aliances forged. With the Linux User Group Balista from Hamburg, one result from the discussions generated a joint project to organize SFD (Software Freedom Day) together.
+Many sidux e.V. members are by now "Assurers" to CAcert, a project issuing free certificates.
+With FSFE, (Free Software Foundation Europe), we are united by common goals and 2 Members of sidux e.V. are also Fellows of FSFE.
+In October 2009 a meeting was held in Eupen in ZAWM, a centre for education and training (http://www.zawm.be/). Here sidux e.V. will participate by giving lectures on topics such as GNU / Linux, security and authentication.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Projects in planning
+Currently 2 major projects are in planning phases:
+1) Debconf at LT
+At Linux Tag 2010 in Berlin we plan to set up a Debian conference (mini-debconf).The goal is to give developers a platform to jointly work on the next release of Debian.
+2) A Supercomputer Project
+An initial meeting for a project with the FH St. Augustin (a university near Köln/Bonn) was held recently.
+The goal is to develop solutions in both hardware and software areas for a 'supercomputer' with multiple GPUs.
+This computer will later serve mainly for CAD processing and support both Windows and GNU/Linux operating systems and sidux e.V. is striving to actively participate in the task to realize the GNU/Linux part of that project.
