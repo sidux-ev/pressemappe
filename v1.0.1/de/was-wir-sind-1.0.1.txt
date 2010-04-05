@@ -31,9 +31,10 @@ In 2009 wurden vielfältige Kontakte geknüpft und vertieft. Mit der Linux-Userg
 Viele sidux e.V. Mitglieder sind mittlerweile sogenannte "Assurer" bei CAcert, einem Projekt das kostenlose Zertifikate ausstellt. Ein Assurer stellt die Identität eines Antragstellers - oder bei gegenseitiger Assurance (Überprüfung) die Identität des anderen CAcert Community Mitgliedes - fest und bestätigt sie gegenüber der CAcert Community. Der Abschluss der Bestätigung erfolgt mit dem Eintrag im Web Account des überprüfenden CAcert Assurers. CAcert bietet allen - Unternehmen, Privatpersonen, Vereinen, Schulen, Universitäten usw. - kostenlose Zertifikate, z.B. für den Betrieb von Webservern oder zur Signatur von E-Mail-Nachrichten. Dabei steht die Verifizierung wie bei einem Extended Validation SSL-Zertifikat im Vordergrund, damit maximaler Betrugsschutz dank Identitätsfeststellung durch mehrere Personen - als Teil eines Vertrauensnetzwerks oder Web of Trust der Community - sichergestellt wird.
 Mit der FSFE sind wir durch gemeinsame Ziele verbunden und 2 Mitglieder des sidux e.V. sind mittlerweile Fellows der FSFE.
 Im Oktober 2009 fand ein Treffen in Eupen im ZAWM, einem Zentrum für Aus- und Weiterbildung (http://www.zawm.be/) statt. Hier wird sich sidux e.V. in 2010 in Form von Vorträgen über Themen wie GNU/Linux allgemein, Sicherheit und Authentifizierung einbringen.
+Ab Februar 2010 auch Zusammenarbeit mit Open Source Treffen, eine Initiative von OpenOfficeOrg und Mozilla.
 ###################
 Projekte in Planung
 Derzeit in Planung und/oder Projektierung sind 2 grössere Projekte:
-Zum LinuxTag 2010 in Berlin ist die Planung für eine Debian Konferenz angelaufen. Ziel ist es den Entwicklern eine Plattform zu geben um gemeinsam am nächsten Release von Debian zu arbeiten.
+Zum LinuxTag 2010 in Berlin ist die Planung für eine Mini-Debian Konferenz angelaufen. Ziel ist es den Entwicklern eine Plattform zu geben um gemeinsam am nächsten Release von Debian zu arbeiten.
 Ein erstes Treffen zu einem Projekt mit der FH St.Augustin fand am 2010-01-17 statt. Ziel ist es Lösungen im Hard- und Softwarebereich für einen Supercomputer zu erarbeiten.
 Dieser Rechner soll später hauptsächlich der CAD Bearbeitung dienen und sowohl Windows als auch GNU/Linux unterstützen. Dabei wird sich  der sidux e.V. aktiv im Aufgabenbereich GNU/Linux einbringen.
