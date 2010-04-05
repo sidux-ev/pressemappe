@@ -1,26 +1,2 @@
-# README 
-##
-################## WICHTIG, BITTE BEACHTEN ######################
-##                                                             ##
-## bei den texten beachten: keine leerzeilen, nur fliesstext!  ##
-##                                                             ##
-#################################################################
-##
-## git status
-# hiermit kann der aktuelle stand des lokalen gits abgefragt werden
-# und enventuell geaenderte dokumente via git add beigefügt werden.
-##
-## git log
-# zeigt änderungen von github an
-##
-## git pull
-# checkt github aus und lädt änderungen ins lokale git
-##
-## ## ## ## ## ## ## ## ## ##
-## der dreisatz des git ;) ##
-## ## ## ## ## ## ## ## ## ##
-##
-## git add dokument 
-## git commit (bitte anweisungen beachten, #-zeichen vor modified entfernen, kommentar schreiben)
-## git push git@github.com:sidux-ev/sidux-ev.git
-##
+# Pressemappe des sidux e.V. 
+############################
