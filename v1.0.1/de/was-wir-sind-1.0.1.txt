@@ -26,7 +26,7 @@ Zusätzlich wurde ein W-LAN-Netz im ganzen Haus eingerichtet. Das System läuft 
 Wortmarke sidux
 Wir haben 2008 das Markenrecht für die Wortmarke sidux™ bei der Europäischen Markenrechtsstelle beantragt. Die Wortmarke wurde 2009 zugeteilt.
 ###########################################
-Zusammenarbeit mit Balista, CAcert und FSFE
+Zusammenarbeit mit Balista, CAcert, FSFE und Open Source Treffen
 In 2009 wurden vielfältige Kontakte geknüpft und vertieft. Mit der Linux-Usergroup Balista aus Hamburg wurden dort einige Treffen gemeinsam abgehalten und Kooperationen wie z.B die Organisation des SFD (Software Freedom Day) besprochen.
 Viele sidux e.V. Mitglieder sind mittlerweile sogenannte "Assurer" bei CAcert, einem Projekt das kostenlose Zertifikate ausstellt. Ein Assurer stellt die Identität eines Antragstellers - oder bei gegenseitiger Assurance (Überprüfung) die Identität des anderen CAcert Community Mitgliedes - fest und bestätigt sie gegenüber der CAcert Community. Der Abschluss der Bestätigung erfolgt mit dem Eintrag im Web Account des überprüfenden CAcert Assurers. CAcert bietet allen - Unternehmen, Privatpersonen, Vereinen, Schulen, Universitäten usw. - kostenlose Zertifikate, z.B. für den Betrieb von Webservern oder zur Signatur von E-Mail-Nachrichten. Dabei steht die Verifizierung wie bei einem Extended Validation SSL-Zertifikat im Vordergrund, damit maximaler Betrugsschutz dank Identitätsfeststellung durch mehrere Personen - als Teil eines Vertrauensnetzwerks oder Web of Trust der Community - sichergestellt wird.
 Mit der FSFE sind wir durch gemeinsame Ziele verbunden und 2 Mitglieder des sidux e.V. sind mittlerweile Fellows der FSFE.
