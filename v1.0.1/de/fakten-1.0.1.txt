@@ -10,12 +10,12 @@ Juni 2007 Messestand beim LinuxTag Berlin
 August 2007 Messestand FrOSCon in St. Augustin
 Oktober 2007 Messestand PracticalLinux Gießen
 Oktober 2007 1. Anwender-Treffen in Aachen
-Oktober 2007 siduxWebshop geht online
+Oktober 2007 Webshop geht online
 Dezember 2007 Umrüstung des Hotels Azur in Berlin auf sidux
-März 2008 Messestand bei den Chemnitzer Linuxtagen
+März 2008 Messestand Chemnitzer Linuxtage
 April 2008 erste Version von Seminarix veröffentlicht
 April 2008 2. Anwendertreffen in Aachen
-Mai 2008 Messestand beim LinuxTag Berlin
+Mai 2008 Messestand LinuxTag Berlin
 August 2008 Messestand FrOSCon in St. Augustin
 Oktober 2008 Übergabe des Kiosk-Projektes
 Oktober 2008 3. Anwender-Treffen in Aachen
@@ -23,23 +23,23 @@ Dezember 2008 Weihnachts-Brunch Hamburg
 Dezember 2008 sidux e.V Weihnachts-Treffen Aachen
 Januar 2009 Community-Treffen in Hamburg
 Februar 2009 Registrierung der Wortmarke sidux™
-März 2009 Messestand bei den Chemnitzer Linuxtagen
-Juni 2009 Messestand beim LinuxTag Berlin
+März 2009 Messestand Chemnitzer Linuxtagen
+Juni 2009 Messestand LinuxTag Berlin
 August 2009 Messestand FrOSCon in St. Augustin
 September 2009 Software Freedom Day in Hamburg
 Oktober 2009 1. Stammtisch in Darmstadt
 Oktober 2009 4. Anwender-Treffen in Aachen
-November 2009 Brandenburger Linux Tage
+November 2009 Messestand Brandenburger Linux Tage
 November 2009 Messestand OpenRheinRuhr in Bottrop
 November 2009 Vorträge und Vorstellung in Bremen (TEWIFO)
 Dezember 2009 Weihnachts-Brunch Hamburg
 Dezember 2009 Weihnachtsessen mit Balista und CAcert in Hamburg
 Februar 2010 Fosdem Brüssel, Unterstützung von CAcert
-Februar 2010 Messestand beim Oldenburger Linux Infotag
-März 2010 Messestand bei den Chemnitzer Linuxtagen
-März 2010 Messestand beim Augsburger Linux-Infotag
+Februar 2010 Messestand Oldenburger Linux Infotag
+März 2010 Messestand Chemnitzer Linuxtagen
+März 2010 Messestand Augsburger Linux-Infotag
 April 2010 Darmstadt Treff in der Hochschule Darmstadt
 Mai 2010 Treffen mit IT-Stammtisch Darmstadt
 Mai 2010 2. Anwender-Treffen Bremen
 Mai 2010 Anwender-Treffen Köln
-Mai 2010 Messestand bei SIGINT Köln
+Mai 2010 Messestand SIGINT Köln
