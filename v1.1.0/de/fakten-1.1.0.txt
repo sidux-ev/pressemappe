@@ -46,3 +46,6 @@ Mai 2010 Messestand SIGINT Köln
 Juni 2010 Messestand LinuxTag Berlin
 Juli 2010 Anwender-Treffen Nürnberg
 Juli 2010 Treffen mit IT-Stammtisch Darmstadt
+August 2010 Treffen mit IT-Stammtisch Darmstadt
+August 2010 Messestand FrOSCon in St. Augustin
+
