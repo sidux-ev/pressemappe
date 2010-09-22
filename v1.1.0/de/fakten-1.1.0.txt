@@ -1,6 +1,6 @@
 Personen
-Vorsitzender: Dinko Sabo
-2.Vorsitzender: Ferdinand Thommes
+# Vorsitzender: Dinko Sabo
+# 2.Vorsitzender: Ferdinand Thommes
 Schatzmeister: Walter Güldenberg
 stellv. Schatzmeister: Marcus von Ohlen
 ######################### 
@@ -51,3 +51,4 @@ August 2010 Messestand FrOSCon in St. Augustin
 August 2010 3. Anwender-Treffen in Bremen
 September 2010 Treffen mit IT-Stammtisch Darmstadt
 September 2010 Software Freedom Day in Hamburg
+Oktober 2010 4. Anwendertreffen im Oktober in Aachen
