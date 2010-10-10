@@ -18,7 +18,7 @@ April 2008 1. Anwendertreffen im April in Aachen
 Mai 2008 Messestand LinuxTag Berlin
 August 2008 Messestand FrOSCon in St. Augustin
 Oktober 2008 Übergabe des Kiosk-Projektes
-Oktober 2008 2. Anwender-Treffen im Oktober in Aachen
+Oktober 2008 2. ac-Treff powered by sidux e.V. in Aachen
 Dezember 2008 Weihnachts-Brunch Hamburg
 Dezember 2008 sidux e.V Weihnachts-Treffen Aachen
 Januar 2009 Community-Treffen in Hamburg
@@ -28,7 +28,7 @@ Juni 2009 Messestand LinuxTag Berlin
 August 2009 Messestand FrOSCon in St. Augustin
 September 2009 Software Freedom Day in Hamburg
 Oktober 2009 1. Stammtisch in Darmstadt
-Oktober 2009 3. Anwender-Treffen im Oktober in Aachen
+Oktober 2009 3. ac-Treff powered by sidux e.V. in Aachen
 November 2009 Messestand Brandenburger Linux Tage
 November 2009 Messestand OpenRheinRuhr in Bottrop
 November 2009 Vorträge und Vorstellung in Bremen (TEWIFO)
@@ -52,4 +52,5 @@ August 2010 3. Anwender-Treffen in Bremen
 September 2010 sidux Projekt löst sich selbst auf
 September 2010 Treffen mit IT-Stammtisch Darmstadt
 September 2010 Software Freedom Day in Hamburg
-Oktober 2010 4. Anwendertreffen im Oktober in Aachen
+Oktober 2010 4. ac-Treff powered by sidux e.V. im Aachen
+
