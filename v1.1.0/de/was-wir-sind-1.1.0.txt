@@ -1,9 +1,10 @@
 Wer wir sind
 sidux e.V. ist ein gemeinnütziger Verein mit dem Ziel, Freie Software weltweit zu verbreiten. Im Besonderen widmen wir uns der Distribution sidux (Die Entwicklung des sidux Projektes wurde in 09/2010 durch die Entwickler eingestellt).
-Gegründet Jahr 2007, zählen wir derzeit ca. 60 Mitglieder.
+Die Gegründet fand im Jahr 2007 statt.
 Die Vereinsarbeit findet einerseits im Internet mittels Internet-Relay-Chat (IRC) statt, auf der anderen Seite veranstalten wir deutschlandweit Usertreffen und Arbeitswochenenden.  
-Zu den Aufgaben des sidux e.V. gehört primär die Unterstützung der Entwickler des Betriebssystems sidux durch die Beschaffung der nötigen finanziellen Ressourcen. Weiterhin nimmt der Verein alle juristischen und organisatorischen Aufgaben für das sidux-Projekt wahr. Die  Finanzierung wird über die Mitgliedsbeiträge, Spendenmittel und einen Webshop für sidux-Merchandise sichergestellt.
+Zu den Aufgaben des sidux e.V. ?????
 Darüberhinaus wird die Vernetzung mit anderen Projekten wie z. B. Debian und CAcert im Sinne der Stärkung Freier Software betrieben.  
+?????
 Zur Öffentlichkeitsarbeit des Vereins gehört unter anderem die regelmäßige Präsenz mit einem Stand auf den großen Linux-Messen in Deutschland, z.B. dem jährlichen LinuxTag in Berlin.
 ##################
 Seminarix Projekt
