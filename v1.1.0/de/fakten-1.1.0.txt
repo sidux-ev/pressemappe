@@ -1,5 +1,5 @@
 Personen
-# Vorsitzender: Dinko Sabo
+# 1.Vorsitzender: Dinko Sabo
 # 2.Vorsitzender: Ferdinand Thommes
 Schatzmeister: Walter Güldenberg
 stellv. Schatzmeister: Marcus von Ohlen
@@ -53,4 +53,6 @@ September 2010 sidux Projekt löst sich selbst auf
 September 2010 Treffen mit IT-Stammtisch Darmstadt
 September 2010 Software Freedom Day in Hamburg
 Oktober 2010 4. ac-Treff powered by sidux e.V. im Aachen
-
+Oktober 2010 Gastredner im ZAWM Eupen
+November 2010 Open Exchange Partnersummit Köln
+November 2010 OpenRheinRuhr Oberhausen
