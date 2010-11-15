@@ -1,6 +1,6 @@
 Personen
-# 1.Vorsitzender: Dinko Sabo
-# 2.Vorsitzender: Ferdinand Thommes
+1.Vorsitzender:
+2.Vorsitzender:
 Schatzmeister: Walter Güldenberg
 stellv. Schatzmeister: Marcus von Ohlen
 ######################### 
@@ -56,3 +56,4 @@ Oktober 2010 4. ac-Treff powered by sidux e.V. im Aachen
 Oktober 2010 Gastredner im ZAWM Eupen
 November 2010 Open Exchange Partnersummit Köln
 November 2010 OpenRheinRuhr Oberhausen
+Dezember 2010 3. sidux e.V. Brunch Hamburg
