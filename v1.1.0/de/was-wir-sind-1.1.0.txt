@@ -33,4 +33,5 @@ Viele sidux e.V. Mitglieder sind mittlerweile sogenannte "Assurer" bei CAcert, e
 Mit der FSFE sind wir durch gemeinsame Ziele verbunden und 2 Mitglieder des sidux e.V. sind mittlerweile Fellows der FSFE.
 Im Oktober 2009 fand ein Treffen in Eupen im ZAWM, einem Zentrum für Aus- und Weiterbildung (http://www.zawm.be/) statt. Hier wird sich sidux e.V. in 2010 in Form von Vorträgen über Themen wie GNU/Linux allgemein, Sicherheit und Authentifizierung einbringen.
 Ab Februar 2010 auch Zusammenarbeit mit Open Source Treffen, eine Initiative von OpenOffice.org und Mozilla.
-Ab 2011 Kooperation mit dem IT-Stammtisch Darmstadt, z.B. in Form eines gemeinsamen Sommerfestes.
+Ab 2011 Kooperation mit dem IT-Stammtisch Darmstadt, z.B. in Form eines gemeinsamen Sommerfestes und der gemeinsamen veranstaltung von Vorträgen in der Hochschule Darmstadt.
+
