@@ -70,4 +70,5 @@ Februar 2012 Kooperationsvertrag mit dem Semplice-Linux Projekt
 März 2012 Erfolgreicher Abschluß der Spendenaktion "S9Y-Buch"
 Mai 2012 Messestand SIGINT 2012, Köln Media-Park
 August 2012 Messestand FrOSCon 2012, St. Augustin. U.A. Vorstellung Semplice-Linux Projekt
+September 2012 Teilnahme Veranstaltung zum Software Freedom Day, Köln
 
